@@ -1,5 +1,5 @@
 # Torii-globe
-torii addon for globe
+torii addon for globe telecoms in the Philippines
 
 ## Installation
 - `git clone` this repository
