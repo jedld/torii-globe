@@ -1,5 +1,7 @@
 # Torii-globe
-torii addon for globe telecoms in the Philippines
+torii addon for globe telecoms in the Philippines.
+
+This wraps the globelabs api web opt-in flow 
 
 ## Installation
 - `git clone` this repository
